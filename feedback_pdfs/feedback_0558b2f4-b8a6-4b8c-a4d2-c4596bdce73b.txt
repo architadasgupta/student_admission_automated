@@ -1,0 +1,28 @@
+Dear Student,
+
+Thank you for applying to our program. We are pleased to inform you that your application has been shortlisted based on your strong academic record, particularly your JEE Main rank of 3627 and your 12th standard percentage of 89.2%.  However, your application is not yet fully approved, pending further information and the resolution of several discrepancies.
+
+We have identified the following discrepancies between your application data and your official scorecard:
+
+* **Physics Marks:** Application: 89, Scorecard: 90.35
+* **Chemistry Marks:** Application: 86, Scorecard: 89.23
+* **Maths Marks:** Application: 91, Scorecard: 92.57
+* **Total Marks:** Application: Missing, Scorecard: 90.72%
+* **Percentage:** Application: Missing, Scorecard: Missing (although your board percentage is provided)
+* **Roll Number:** Discrepancy between the Roll Number provided in your application and your scorecard. Please verify that the number provided is your actual Roll Number and not your Application Number. 
+
+To complete your application, please correct these discrepancies and provide the missing information (Total Marks, Percentage, Age, Family Income, Caste, and details of a guarantor if applying for a loan).  Accurate information is critical for assessing your eligibility for admission and any potential financial aid.
+
+Your application also requires additional information to determine full eligibility for admission and any loan considerations:
+
+* **Age:**  Please provide your age as of the application date to verify that you meet the age criteria.
+* **Family Income:** Please provide your family income information to determine your eligibility for financial aid and reserved seats (EWS quota).
+* **Caste:** Providing your caste information will allow us to assess your eligibility for SC/ST reserved seats.
+* **Guarantor Information:** If applying for a loan, please provide details of your guarantor.
+
+Given your strong academic profile, we encourage you to explore merit-based scholarships.  We will assess your eligibility for need-based financial aid once the requested information is received.  We also recommend that you research and apply for external scholarships or financial aid from other organizations and government programs.
+
+Please resubmit your application with the corrected information as soon as possible.  If you have any questions or require further assistance, please do not hesitate to contact us.
+
+Sincerely,
+The Admissions Committee
