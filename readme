@@ -1,4 +1,4 @@
-# AI-Powered Smart Admission System
+#AI-Powered Smart Admission System
 
 An intelligent admission automation platform that streamlines document verification, eligibility assessment, applicant shortlisting, financial aid evaluation, and feedback generation using a multi-agent AI architecture.
 
@@ -6,7 +6,7 @@ An intelligent admission automation platform that streamlines document verificat
 
 The system is designed to reduce manual effort, accelerate application processing, and improve transparency throughout the admission lifecycle. By combining document intelligence, AI agents, and semantic knowledge retrieval, the platform enables faster and more consistent admission decisions.
 
-## Key Features
+##Key Features
 
 * Automated document verification
 * AI-powered eligibility assessment
@@ -16,15 +16,15 @@ The system is designed to reduce manual effort, accelerate application processin
 * Automated PDF report generation
 * Real-time application status tracking
 
-## Architecture
+##Architecture
 
-### Document Intelligence Layer
+###Document Intelligence Layer
 
 * Hybrid OCR for document extraction
 * Support for scanned and digital documents
 * Adaptive preprocessing for low-quality files
 
-### Multi-Agent Decision Engine
+###Multi-Agent Decision Engine
 
 * Validation Agent
 * Eligibility Agent
@@ -33,19 +33,19 @@ The system is designed to reduce manual effort, accelerate application processin
 * Feedback Agent
 * PDF Generator Agent
 
-### Knowledge Base
+###Knowledge Base
 
 * Vector database for semantic retrieval
 * Historical applicant profiling
 * Continuous learning and improvement
 
-### Reporting & Feedback System
+###Reporting & Feedback System
 
 * Automated report generation
 * Transparent decision explanations
 * Real-time progress tracking
 
-## Tech Stack
+##Tech Stack
 
 * OCR (Tesseract)
 * Large Language Models (LLMs)
@@ -54,11 +54,11 @@ The system is designed to reduce manual effort, accelerate application processin
 * Python
 * PDF Generation Tools
 
-## Objective
+##Objective
 
 To transform traditional admission workflows into an intelligent, transparent, and scalable process that reduces processing time, improves decision consistency, and enhances the applicant experience.
 
-## Future Work
+##Future Work
 
 * Fraud detection for submitted documents
 * Multi-language document support
